@@ -1,0 +1,77 @@
+html, body, .d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d10, .a10, .a20, .a30, .a40, .a50, .a60, .a70, .a80, .a90, .a100 {
+    float: none;
+    display: block;
+    margin: auto;
+    overflow: auto;
+    box-sizing: border-box;
+}
+
+.d1 {
+    width: 100%;
+}
+.d2 {
+    width: 50%;
+}
+.d3 {
+    width: 33.33%;
+}
+.d4 {
+    width: 25%;
+}
+.d5 {
+    width: 20%;
+}
+.d6 {
+    width: 16.66%;
+}
+.d7 {
+    width: 14.28%;
+}
+.d8 {
+    width: 12.5%;
+}
+.d9 {
+    width: 11.11%;
+}
+.d10 {
+    width: 10%;
+}
+
+.a10 {
+    width: 10%;
+}
+.a20 {
+    width: 20%;
+}
+.a30 {
+    width: 30%;
+}
+.a40 {
+    width: 40%;
+}
+.a50 {
+    width: 50%;
+}
+.a60 {
+    width: 60%;
+}
+.a70 {
+    width: 70%;
+}
+.a80 {
+    width: 80%;
+}
+.a90 {
+    width: 90%;
+}
+.a100 {
+    width: 100%;
+}
+
+:root {
+    --white: #ebebeb;
+    --black: #141414;
+    --red: #ee4040;
+    --green: #40ee40;
+    --blue: #4040ee;
+}
